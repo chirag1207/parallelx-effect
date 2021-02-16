@@ -1,0 +1,141 @@
+html , body{
+	margin:0px;
+	height:100%;
+	overflow-x:hidden;
+	
+}
+.container1{
+	background-image: url(https://png.pngtree.com/thumb_back/fh260/back_our/20190617/ourmid/pngtree-blue-technology-background-banner-image_125518.jpg);
+	text-align: center;
+	width:100%;
+	height:900px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.text1{
+	font-size: 100px;
+	padding-top: 200px;
+	font-family: 'Mr Dafoe' , cursive;
+	color: white;
+	-webkit-text-fill-color: rgba(255, 255, 255,1);
+	text-shadow: -3px -3px  12px ;
+	font-weight: normal;
+}
+.text2{
+	font-size: 40px;
+	color: white;
+	margin:0 0 20px 0;
+	font-family: 'Montserrat',sans-serif;
+}
+.registration{
+	height:550px;
+	width:100%;
+	background-image: url(https://media4.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif);
+	background-repeat: repeat;
+	text-align:center;
+
+}
+
+.text4{
+	width:70%;
+	margin-left:15%;
+	
+	padding:30px 0 80px 0;
+	font-family: 'Montserrat',sans-serif;
+	font-size: 20px;
+	letter-spacing: 0.1em;
+	line-height: 1.8;
+}
+.container2{
+	background-image: url(https://png.pngtree.com/thumb_back/fh260/back_our/20190617/ourmid/pngtree-blue-technology-background-banner-image_125518.jpg);
+	text-align: center;
+	width:100%;
+	height: 800px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.empty{
+	height: auto;
+	width:100%;
+	text-align: center;
+	background-color: white;
+}
+.text5{
+	font-family: 'Montserrat',sans-serif;
+	font-size:80px;
+	padding:80px 0 80 px 0;
+	letter-spacing:0.1em;
+}
+.form{
+	width: 90%;
+    height:400px;
+    border: 5px solid black;
+    padding: 50px;
+    margin: 20px;
+    background-color: cadetblue;
+  }
+    input[type=text]{
+        background: lightGray;
+        width:200px;
+        font-size: 15px;
+        font-weight: 900;
+        border-radius: 7px;
+        margin-left: 13px;
+        margin-top: 10px;
+        text-align: left;
+    }
+
+    textarea {
+        background: lightGray;
+        width:400px;
+        font-size: 15px;
+        font-weight: 900;
+        border-radius: 7px;
+        margin-left: 13px;
+        margin-top: 10px;
+        text-align: left;
+    }
+    input[type=email]{
+        background: lightGray;
+        width:250px;
+        font-size: 15px;
+        font-weight: 900;
+        border-radius: 7px;
+        margin-left: 13px;
+        margin-top: 10px;
+        text-align: left;
+    }
+    input[type=phone]{
+        background: lightGray;
+        width:200px;
+        font-size: 15px;
+        font-weight: 900;
+        border-radius: 7px;
+        margin-left: 13px;
+        margin-top: 10px;
+        text-align: left;
+    }
+	input[type=int]{
+        background: lightGray;
+        width:200px;
+        font-size: 15px;
+        font-weight: 900;
+        border-radius: 7px;
+        margin-left: 13px;
+        margin-top: 10px;
+        text-align: left;
+	}
+	input[type=submit]{
+	background-color:darkblue;
+	border: none;
+	color: white;
+	padding: 10px 20px;
+	text-decoration: none;
+	margin: 4px 2px;
+	cursor: pointer;
+	align-items: center;
+  }
